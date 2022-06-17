@@ -1,0 +1,19 @@
+{
+  "name": "@lpfinance/math-cal",
+  "version": "1.0.1",
+  "description": "This is a math calculation libraby. which is help for user to simple calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"calculation\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepakkurmi-eMoment/math-cal.git"
+  },
+  "author": "Deepak kurmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepakkurmi-eMoment/math-cal/issues"
+  },
+  "homepage": "https://github.com/Deepakkurmi-eMoment/math-cal#readme"
+}
