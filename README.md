@@ -9,7 +9,7 @@ This is a math calculation function
 Then....
 
 ```
- import { Addition, Subtract, Multiplay, Division } from "math-cal";
+ import { Addition, Subtract, Multiplay, Division } from "@lpfinance/math-cal";
 
  Division(value1, value2);
  Subtract(value1, value2);
